@@ -1,7 +1,7 @@
 
-class Recursion_01 {
+public class Recursion_01 {
     private static int count = 0;
-    
+
     private static void fun() {
         if(count == 3)
             return;
